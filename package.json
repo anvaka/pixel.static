@@ -1,0 +1,20 @@
+{
+  "name": "pixel.static",
+  "version": "0.1.0",
+  "description": "Static layout for ngraph.pixel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ngraph.pixel",
+    "layout",
+    "static"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/pixel.static"
+  }
+}
