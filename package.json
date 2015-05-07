@@ -4,7 +4,7 @@
   "description": "Static layout for ngraph.pixel",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "browserify demo/index.js > demo/bundle.js"
   },
   "keywords": [
     "ngraph.pixel",
@@ -16,5 +16,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/pixel.static"
+  },
+  "devDependencies": {
+    "ngraph.graph": "0.0.11",
+    "ngraph.pixel": "^0.1.11"
   }
 }
