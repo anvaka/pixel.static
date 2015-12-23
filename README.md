@@ -1,14 +1,6 @@
 # pixel.static
 
-Static layout for ngraph.pixel
-
-# install
-
-With [npm](https://npmjs.org) do:
-
-```
-npm install pixel.static
-```
+Static layout for [ngraph.pixel](https://github.com/anvaka/ngraph.pixel)
 
 # license
 
