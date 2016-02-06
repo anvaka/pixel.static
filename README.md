@@ -35,6 +35,8 @@ function getNodePosition(node) {
 }
 ```
 
+[Online demo with ~49k nodes](https://anvaka.github.io/pixel.static/demo/) - [source code](https://github.com/anvaka/pixel.static/tree/master/demo)
+
 # license
 
 MIT
