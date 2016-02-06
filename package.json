@@ -1,6 +1,6 @@
 {
   "name": "pixel.static",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "description": "Static layout for ngraph.pixel",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/anvaka/pixel.static"
   },
   "devDependencies": {
-    "ngraph.graph": "0.0.11",
-    "ngraph.pixel": "^0.1.11"
+    "ngraph.graph": "0.0.12",
+    "ngraph.pixel": "^2.0.0"
   }
 }

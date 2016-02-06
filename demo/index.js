@@ -10,7 +10,8 @@ function init(graph) {
   graph.forEachNode(setNodeSize);
 
   function setNodeSize(node) {
-    renderer.nodeSize(node.id, 100);
+    var nodeUI = renderer.getNode(node.id);
+    nodeUI.size = 100; // update size
   }
 }
 
